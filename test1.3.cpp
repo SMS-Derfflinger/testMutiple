@@ -6,6 +6,7 @@ int main()
 	std::cout << "222" << std::endl;
 
 	std::cout << "test  1.3" << std::endl;
+	std::cout << "test  1.3" << std::endl;
 
 	return 0;
 }
